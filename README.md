@@ -10,6 +10,7 @@ cargo build --release
 ```
 
 The binary can then be found under target/release/rusty-json-prom-exporter
+
 Run the binary as:
 ```
 ./rusty-json-prom-exporter [url] [filename]
